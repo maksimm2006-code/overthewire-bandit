@@ -1,12 +1,14 @@
-# Bandit (OverTheWire) – мои решения
+Bandit (OverTheWire) – my solutions
 
-## Пройденные уровни
+Completed levels
 
-- [x] Level 10 → 11 (отчёт: `level_10_11_report.md`)
-- [x] Level 11 → 12 (отчёт: `level_11_12_report.md`)
-- [x] Level 12 → 13 (отчёт: `level_12_13_report.md`)
-- [x] Level 13 → 14 (отчёт: `level_13_14_report.md`)
-- [x] Level 14 → 15 (отчёт: `level_14_15_report.md`, скрипт: `scripts/bandit_auto_14_15.sh`)
-- [x] Level 15 → 16 (отчёт: `level_15_16_report.md`, скрипт: `scripts/bandit_auto_15_16.sh`)
-- [x] Level 16 → 17 (отчёт: `level_16_17_report.md`, скрипт: `scripts/bandit_auto_16_17.sh`)
-
+Level 15 → 16 (report: level_15-16.md, script: script_level_15-16.sh)
+Level 16 → 17 (report: level_16-17.md, script: script_level_16-17.sh)
+Level 17 → 18 (report: level_17-18.md, script: script_level_17-18.sh)
+Level 18 → 19 (report: level_17-18.md, script: script_level_18-19.sh)
+Level 19 → 20 (report: level_17-18.md, script: script_level_19-20.sh)
+Level 20 → 21 (report: level_17-18.md, script: script_level_20-21.sh)
+Level 21 → 22 (report: level_17-18.md, script: script_level_21-22.sh)
+Level 22 → 23 (report: level_17-18.md, script: script_level_22-23.sh)
+Level 23 → 24 (report: level_17-18.md, script: script_level_23-24.sh)
+Level 24 → 25 (report: level_17-18.md, script: script_level_24-25.sh)
